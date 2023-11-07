@@ -1,4 +1,4 @@
-# Sum of Digits Program for Aleo 🧮
+# Sum of Digits Program for Aleo 🧮 ( Discord: valeracryptoshark )
 
 Welcome to the "Sum of Digits" program, a simple yet powerful Leo application designed for the Aleo blockchain. This program provides a fundamental operation that serves as a building block for various cryptographic applications within the Aleo ecosystem.
 
